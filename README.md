@@ -1,2 +1,2 @@
 # bioinfoclub
-rdkit and pubchempy exercises for the bioinformatics club at RIT
+I created this repository to prepare for a workshop for the RIT Bioinformatics Club. They want to learn about cheminformatics. So I will create rdkit and pubchempy exercises for the bioinformatics club at RIT. The general approach will be to demonstrate a few features of each library, then have the students complete a few simple exercises that involve interesting cheminformatics features, like SMILES strings and InCHI Keys, and to show that Jupyter notebooks can generate chemical drawings.
